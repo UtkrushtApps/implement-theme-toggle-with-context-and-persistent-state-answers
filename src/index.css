@@ -1,0 +1,15 @@
+/* src/index.css */
+body.theme-light {
+  background: #f9f9fa;
+  color: #24292f;
+  transition: background 0.2s, color 0.2s;
+}
+body.theme-dark {
+  background: #18191a;
+  color: #f8f8f2;
+  transition: background 0.2s, color 0.2s;
+}
+
+button {
+  font-size: 1rem;
+}
